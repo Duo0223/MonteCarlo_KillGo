@@ -1,0 +1,24 @@
+﻿已經開始建置於 2013/12/18 下午 01:05:10。
+     1>節點 2 (rebuild 目標) 上的專案 "C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\KillAllGo.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Release\KillAllGo.unsuccessfulbuild"。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt killallgo_prue.cpp uct_mc.cpp
+         killallgo_prue.cpp
+         uct_mc.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\Release\KillAllGo.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\KillAllGo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\Release\KillAllGo.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\Release\KillAllGo.lib" /MACHINE:X86 Release\killallgo_prue.obj
+         Release\uct_mc.obj
+         正在產生程式碼
+         已完成程式碼產生
+         KillAllGo.vcxproj -> C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\Release\KillAllGo.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\Release\KillAllGo.exe;#1" /manifest Release\KillAllGo.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Release\KillAllGo.unsuccessfulbuild"。
+         正在變更時間戳記 "Release\KillAllGo.lastbuildstate"。
+     1>專案 "C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\KillAllGo.vcxproj" (rebuild 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:03.84

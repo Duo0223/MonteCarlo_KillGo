@@ -1,0 +1,9 @@
+OOOOOOX
+OXXX.OX
+OXXXXOX
+OOOOOOX
+XXXXXXX
+X......
+X......
+think b
+output 5 6

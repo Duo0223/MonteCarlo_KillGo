@@ -1,0 +1,9 @@
+...OX.X
+OOOO.X.
+X.X.X.X
+.X.X.X.
+X.X.X.X
+.X.X.X.
+X.X.X.X
+think b
+output 2 7

@@ -1,0 +1,39 @@
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+        put        
+  count_neighboorhood_state    before   
+	 num_neighborhood_self 	0
+	 num_neighborhood_oppo 	0
+	 num_neighborhood_empt 	4
+	 num_neighborhood_boun 	0
+		0	0
+		1	0
+		2	0
+		3	0
+  count_neighboorhood_state    after   
+        count_liberty         before    
+		0	0
+		1	0
+		2	0
+		3	0
+        count_liberty         after    
+ -----------------------------------------------------------------
+        put        
+  count_neighboorhood_state    before   
+	 num_neighborhood_self 	0
+	 num_neighborhood_oppo 	0
+	 num_neighborhood_empt 	4
+	 num_neighborhood_boun 	0
+		0	0
+		1	0
+		2	0
+		3	0
+  count_neighboorhood_state    after   
+        count_liberty         before    
+		0	0
+		1	0
+		2	0
+		3	0
+        count_liberty         after    
+ -----------------------------------------------------------------

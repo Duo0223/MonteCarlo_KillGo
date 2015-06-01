@@ -1,0 +1,17 @@
+﻿已經開始建置於 2014/2/27 上午 07:32:12。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\KillAllGo.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\KillAllGo.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         KillAllGo.vcxproj -> C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\Debug\KillAllGo.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\KillAllGo.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\KillAllGo.lastbuildstate"。
+     1>專案 "C:\Users\apple\課程資料\電腦對局理論\Killallgo\KillAllGo\KillAllGo.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.07

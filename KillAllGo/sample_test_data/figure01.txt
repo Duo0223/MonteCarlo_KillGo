@@ -1,0 +1,9 @@
+O.OXXX.
+.OOX.XX
+OOX.X.X
+XX.X.X.
+X.X.X.X
+.X.X.X.
+X.X.X.X
+think w
+output 0 0

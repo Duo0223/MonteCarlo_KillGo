@@ -1,0 +1,32 @@
+reset
+put w 4 7
+put b 5 7
+put b 7 7
+put w 1 6
+put w 2 6
+put w 3 6
+put w 4 6
+put b 6 6
+put b 1 5
+put b 3 5
+put b 5 5
+put b 7 5
+put b 2 4
+put b 4 4
+put b 6 4
+put b 1 3
+put b 3 3
+put b 5 3
+put b 7 3
+put b 2 2
+put b 4 2
+put b 6 2
+put b 1 1
+put b 3 1
+put b 5 1
+put b 7 1
+start game
+display
+think b
+display
+quit
